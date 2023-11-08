@@ -1,0 +1,9 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#board {
+    background-image: url('img/howgwarts.webp');
+    background-size: cover;
+}
